@@ -9,5 +9,8 @@ Este repositório contém as soluções e materiais desenvolvidos para o desafio
 - **Bruno Nieri Nunes** – 820590  
 - **Gustavo Kim Alcantara** – 820763  
 - **Guilherme Bartoletti Oliveira** – 821881  
-- **Luc**
-
+- **Lucas Mantovani** – 794040  
+- **Maykon dos Santos Gonçalves** – 821653  
+- **Pietro Bernardo Dutra Scaglione** – 824375  
+- **Tiago de Paula Evangelista** – 824369  
+- **Vinícius Marto da Veiga** – 821252  
